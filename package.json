@@ -1,0 +1,14 @@
+{
+  "name": "unused-react-component-prop",
+  "version": "1.0.0",
+  "description": "Eslint plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "author": "Jesús Juan Aguilar",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.19.0"
+  }
+}
